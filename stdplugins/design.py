@@ -1,4 +1,4 @@
-"""COMMAND : .join , .pay , .fuck , .work , .push , .aag , .climb"""
+"""COMMAND : .join , .pay , .fuck , .work , .push , .fire , .climb"""
 import asyncio
 from telethon import events
 from telethon.tl.types import ChannelParticipantsAdmins
@@ -71,7 +71,7 @@ async def _(event):
         await event.reply(mentions)
     await event.delete()
 
-@borg.on(admin_cmd("aag"))
+@borg.on(admin_cmd("fire"))
 async def _(event):
     if event.fwd_from:
         return
