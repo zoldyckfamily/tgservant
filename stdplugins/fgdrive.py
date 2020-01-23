@@ -32,7 +32,7 @@ async def _(event):
 
         animation_chars = [
         
-            "__Downloading To Heroku Started...__\n\n░░░░░░░░░░",
+            "__Downloading To Private server Started...__\n\n░░░░░░░░░░",
             "__Downloading...__\n\n█░░░░░░░░░",
             "__Downloading...__\n\n███░░░░░░░",
             "__Downloading...__\n\n█████░░░░░",
