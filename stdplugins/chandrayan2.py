@@ -2,7 +2,7 @@
 
 Available Commands:
 
-.isro
+.space
 
 built by @r4v4n4 , isse bhi loot lo betichod"""
 
@@ -28,7 +28,7 @@ async def _(event):
 
     input_str = event.pattern_match.group(1)
 
-    if input_str == "isro":
+    if input_str == "space":
 
         await event.edit(input_str)
 
