@@ -38,9 +38,9 @@ async def _(event):
 
         animation_chars = [
 
-            "https://github.com/ravana69/UniBorg",
+            "https://github.com/aaahimel/tgservant",
 
-            "https://github.com/spechide/UniBorg"
+            "https://github.com/aaahimel/tgservant"
         ]
 
         for i in animation_ttl:
