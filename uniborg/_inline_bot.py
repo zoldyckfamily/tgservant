@@ -88,21 +88,18 @@ if Config.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
                 "© @meanii",
                 text="""@meanii **( Custom Built By** @meanii **)** 
 **Verified Account:** ✅
-(https://telegra.ph/file/88a9fc26e29332495f8a7.mp4)
-
-**Pithun 3.7.4 (default, feb 1 2020, 01:19:52)** 
+**Pithun 3.7.4 (default, des 02 2020, 00:45:48)** 
 **[GCC 7.4.0]**
 **Talethrun 1.10.6**
-
 **Custom Built Fork:** https://github.com/mitshuhataki/kaito/""",
                 buttons=[
                     [custom.Button.url("👤Contact Creator👤", "https://telegram.dog/meanii"), custom.Button.url(
-                        "📼Instragram📼", "https://www.instagram.com/mitshuhataki/")],
-                    [custom.Button.url("👨‍💻Website👨‍💻", "https://gizmostuffgstuff.blogspot.com/"), custom.Button.url(
+                        "📼Instagram📼", "https://www.instagram.com/mitshuhataki")],
+                    [custom.Button.url("👨‍💻Website👨‍💻", "https://gizmostuffgstuff.blogspot.com"), custom.Button.url(
                         "❕❗Deploy Me❗❕", "https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fzoldyckfamily%2Fzoldyck&template=https%3A%2F%2Fgithub.com%2Fzoldyckfamily%2Fzoldyck")],
                     [custom.Button.url("🌚Youtube Channel🌚", "https://www.youtube.com/channel/UC6FsUGrV-fJtWqRykYfJscg"), custom.Button.url(
                         "✳️Fork Boost✳️", "tg://some_unsupported_feature"), custom.Button.url(
-                        "♻️Refresh Heroku♻️", "tg://")]
+                        "♻️Refresh Heroku♻️", "tg://idk")]
                 ],
                 link_preview=True
             )
