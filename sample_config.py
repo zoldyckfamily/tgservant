@@ -63,17 +63,8 @@ class Config(object):
     # foloowing plugins won't work on Heroku,
     # ⚡Remove This To Make Them Work But Would Make Bot Unstable AF...⚡
     NO_LOAD = [
-        "fwd",
-        "antiflood",
-        "blacklist",
-        "locks",
-        "pmpermit",
-        "snip",
-        "gban",
-        "welcome",
-        "markdown",
-        "mention",
-        "notification"
+      
+  
 
     ]
     # Get your own API key from https://www.remove.bg/ or
